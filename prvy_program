@@ -1,0 +1,4 @@
+a = input("Prvý čitateľ")
+b = input("Druhý čitateľ")
+c = a + b
+print(c)
