@@ -1,4 +1,6 @@
-a = input("Prvý čitateľ")
-b = input("Druhý čitateľ")
-c = a + b
+a = input("Prvý čitateľ:")
+b = input("Druhý čitateľ:")
+af = float(a)
+bf = float(b)
+c = af + bf
 print(c)
